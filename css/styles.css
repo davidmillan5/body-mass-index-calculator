@@ -1,0 +1,11 @@
+#calculator {
+  margin-right: 0.35rem;
+}
+
+.output {
+  border: 1px solid red;
+  width: 60vw;
+  height: 25vw;
+  background-color: black;
+  color: white;
+}
